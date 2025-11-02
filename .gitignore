@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
